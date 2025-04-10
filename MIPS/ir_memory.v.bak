@@ -1,0 +1,19 @@
+module IR_Memory #(
+    parameter IR_MEM_SIZE = 1000
+) (
+    input wire [31:0] PC,
+    input wire clk,
+    output reg [31:0] instruction
+)
+    reg [31:0] ir_mem [IR_MEM_SIZE-1:0];
+
+    initial begin
+        $readmemb("memory_init.mem", ir_mem);
+    end
+
+    always @(posedge clk)begin
+        instruction <= ir_mem[PC];
+    end
+
+
+endmodule

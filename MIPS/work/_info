@@ -1,0 +1,228 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 !s110 1734776061
+!i10b 1
+!s100 TkQGEd4_AKPCQ3hQ1EOjS2
+IEg?]K5:bjMB^MI9MB4zle1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.1/work/MIPS
+Z3 w1734094660
+Z4 8C:/intelFPGA/18.1/work/MIPS/2100619.v
+Z5 FC:/intelFPGA/18.1/work/MIPS/2100619.v
+L0 370
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1734776061.000000
+Z8 !s107 C:/intelFPGA/18.1/work/MIPS/2100619.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/MIPS/2100619.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u
+vALU_Control
+R0
+!i10b 1
+!s100 IDhZ3QFT@7QfZZld1SdTj2
+IgiW3?l`dJ@GWU53Xm8h7f2
+R1
+R2
+R3
+R4
+R5
+L0 337
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u_@control
+vControl
+R0
+!i10b 1
+!s100 V2mPL]g]e@^QV?e@FP^g:3
+IfhAoifl2DD9c;OWa=U@jK1
+R1
+R2
+R3
+R4
+R5
+L0 255
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@control
+vDATA_Memory
+R0
+!i10b 1
+!s100 i0I2W0zE?MfQod_C809D;1
+I]SLa@HH?_So4Hg;k4XVRj0
+R1
+R2
+R3
+R4
+R5
+L0 178
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@d@a@t@a_@memory
+vdata_memory
+!s110 1733308223
+!i10b 1
+!s100 @P=@fKTK2:8S=OdBj02Xh2
+IVUXl4k5V0TajXmMHo<dFM3
+R1
+R2
+w1733308193
+8C:\intelFPGA\18.1\work\MIPS\data_memory.v
+FC:\intelFPGA\18.1\work\MIPS\data_memory.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1733308223.000000
+!s107 C:\intelFPGA\18.1\work\MIPS\data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.1\work\MIPS\data_memory.v|
+!i113 1
+R10
+R11
+vDATA_Memory_tb
+!s110 1734094209
+!i10b 1
+!s100 6BWnEQWBJ52]:Bn>P<aBb2
+IAlG_FdC>fQEkB[9ddEPUl3
+R1
+R2
+w1733746056
+8C:/intelFPGA/18.1/work/MIPS/dt_memory_tb.v
+FC:/intelFPGA/18.1/work/MIPS/dt_memory_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1734094209.000000
+!s107 C:/intelFPGA/18.1/work/MIPS/dt_memory_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.1/work/MIPS/dt_memory_tb.v|
+!i113 1
+R10
+R11
+n@d@a@t@a_@memory_tb
+vIR_Memory
+R0
+!i10b 1
+!s100 489ni@YDzZH5hzOLSaa>J2
+Il@TH0YD7:EQlPD[0Dc1Ae3
+R1
+R2
+R3
+R4
+R5
+L0 216
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@i@r_@memory
+vMIPS_processor
+R0
+!i10b 1
+!s100 gO;;klH4][zD2GZEQO`z^0
+INL`fGVgZ]QT3l=Xz?22J60
+R1
+R2
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@m@i@p@s_processor
+vREG_Memory
+R0
+!i10b 1
+!s100 :zm`kA6z8^20_23<QNJ4c2
+I^j]Eo:WkHDLdXD0S@nGRO3
+R1
+R2
+R3
+R4
+R5
+L0 132
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@r@e@g_@memory
+vtestbench
+R0
+!i10b 1
+!s100 mnAM:cQHTVOUTBXE5n3z92
+II^4zB`7fD`QNE9EUXfWUm0
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
